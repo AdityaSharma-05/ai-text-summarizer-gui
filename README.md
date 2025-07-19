@@ -13,12 +13,6 @@ This is a desktop application that uses Hugging Face Transformers to generate co
 
 ---
 
-## 🖼️ GUI Preview
-
-_(Include a screenshot here if available)_
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
