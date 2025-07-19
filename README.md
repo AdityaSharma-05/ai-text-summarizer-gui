@@ -23,7 +23,7 @@ _(Include a screenshot here if available)_
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/ai-text-summarizer-gui.git
+git clone https://github.com/AdityaSharma-05/ai-text-summarizer-gui
 cd ai-text-summarizer-gui
 
 
